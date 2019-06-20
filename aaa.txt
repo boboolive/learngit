@@ -1,14 +1,5 @@
 master
-<<<<<<< HEAD
-master123aaaqqqqqqhello,git.
-=======
-dev123qqqqqqhello,git.
->>>>>>> dev
+master123dev123qqqqqqhello,git.
 changes happen.
-<<<<<<< HEAD
 bbccbc
 aaaaabbbbbb
-=======
-bbbbbbbb
-aaaaaabbbbbb
->>>>>>> dev
