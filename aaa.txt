@@ -1,4 +1,9 @@
-qqqqqqhello,git.
+aaaqqqqqqhello,git.
 changes happen.
+<<<<<<< HEAD
 bbccbc
 aaaaabbbbbb
+=======
+bbbbbbbb
+aaaaaabbbbbb
+>>>>>>> dev
