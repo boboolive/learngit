@@ -1,4 +1,9 @@
+master
+<<<<<<< HEAD
 master123aaaqqqqqqhello,git.
+=======
+dev123qqqqqqhello,git.
+>>>>>>> dev
 changes happen.
 <<<<<<< HEAD
 bbccbc
